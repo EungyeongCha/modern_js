@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "company": "ABC Media",
+    "phone": "123-123-1234"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "company": "Good Productions",
+    "phone": "333-245-3434"
+  },
+  {
+    "id": 3,
+    "name": "Steve Smith",
+    "company": "ABC Design",
+    "phone": "343-232-5353"
+  },
+  {
+    "id": 4,
+    "name": "Chloe Hammer",
+    "company": "Great Media",
+    "phone": "333-222-1234"
+  }
+]
